@@ -1,0 +1,2 @@
+class AddForiegnKeysToRide < ApplicationRecord
+end
